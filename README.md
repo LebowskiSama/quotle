@@ -1,2 +1,9 @@
 # quotle
 A Simple Python-CLI Tool To Scrape And Display/Store Movie/TV Quotes From The IMDb Database.
+
+# Usage
+
+python quotle.py -t 'yourmoviename'</br>
+
+If you want to save to a local .txt file </br>
+python quotle.py -t 'yourmoviename' -o
