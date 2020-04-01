@@ -6,4 +6,5 @@ A Simple Python-CLI Tool To Scrape And Display/Store Movie/TV Quotes From The IM
 python  quotle.py  -t  'yourmoviename' 
 
 If you want to save to a local .txt file
+
 python quotle.py -t 'yourmoviename' -o
