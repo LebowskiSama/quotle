@@ -3,7 +3,6 @@ import re
 from urllib import request
 import requests
 import json
-import bs4
 from tqdm import tqdm
 import argparse
 import sys
