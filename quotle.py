@@ -79,7 +79,7 @@ def scrape_quotes(imdbID, title, filename=None):
 
     if filename is not None:
         write_to_text(filename)
-        print('Recorded quotes in plaintext')
+        print('Recorded quotes in plaintext!')
 
 if args.title:
     title = args.title.replace(' ', '+')
