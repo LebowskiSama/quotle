@@ -7,6 +7,6 @@ pip install -r requirements.txt
 
 python  quotle.py  -t  'yourmoviename' 
 
-If you want to save to a local .txt file
+If you want to save to a local .txt file:
 
 python quotle.py -t 'yourmoviename' -o
